@@ -14,6 +14,10 @@
 
 - 📫 How to reach me - **ashish13ip@gmail.com**
 
+- 🚨 Architecting component libraries so clean that even your future self won't want to rewrite them in six months.
+
+- 🎸 Digging through CSS quirks to ensure the experience is just as solid on a mobile browser as it is on a 4k monitor.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar13/" height="30" width="40" /></a>
