@@ -1,34 +1,173 @@
-<h1 align="center">Hi there, I'm Ashish👋</h1>
-<h3 align="center">I engineer accessible, high-converting frontends that look incredible on every screen and scale without friction.</h3>
+<h1 align="center">Hi there👋</h1>
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Ashish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Web%20Developer&descAlignY=58&descAlign=50&descColor=d1d5db" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-kumar13">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AshishKumar013">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ashish13ip@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="tel:9631914312">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+Developer+%F0%9F%9A%80;UI%2FUX+Focused+Builder+%F0%9F%8E%A8;Responsive+%26+Scalable+Apps+%F0%9F%93%B1;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Front End Web Developer** with expertise in building modern, responsive web applications using **React 19** and the latest JavaScript ecosystem tools. I love crafting seamless user experiences with clean, scalable code.
+
+- 🎓 B.Tech Graduate from **BIT Sindri, Dhanbad** (CGPA: 7.2)
+- 🚀 Specialized in **React**,**JavaScript**, **Context API**, **React Router DOM**
+- 🎨 Focused on **performance**, **responsiveness**, and **clean architecture**
+- 👯 I’m looking to collaborate on Frontend Projects.
+- 🌱 Currently learning Data Structures and Algorithm.
+- 📍 Based in **India**
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 🍔 FoodiesGo — Responsive Food Delivery Platform
+> *A high-performance, modern food discovery & ordering experience*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://foodiesgo.netlify.app)
+&nbsp;
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Context API](https://img.shields.io/badge/Context_API-6366F1?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+---
+
+### 🌍 Atlas World Explorer
+> *Explore real-time data for 250+ countries in one place*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://atlasproj.netlify.app)
+&nbsp;
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+---
+
+### 🛍️ SwiftBuy — Modern E-Commerce Platform
+> *Feature-rich shopping experience with full cart management*
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://swiftbuyy.netlify.app)
+&nbsp;
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Context API](https://img.shields.io/badge/Context_API-6366F1?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshishKumar013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumar013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKumar013&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" width="60%" />
+
+🏗️ Lots of Contributions coming ahead.
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | CGPA |
+|--------|-------------|------|------|
+| B.Tech  | BIT Sindri, Dhanbad | 2021 – 2025 | 7.2 |
+
+- 🏆 Member of the **Management Team** — coordinated PTS CAD-MAN Competition
+- 🏗️ Member of **Association of Civil Engineering (ACE)** — contributed to Annual Tech-Fest organization
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ashish-kumar13">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/AshishKumar013">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ashish13ip@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://foodiesgo.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" />
+</div>
 
 
-- 💬 Ask me about **Reactjs,JavaScript,Web Animation.**
-
-- 👯 I’m looking to collaborate on **Frontend Projects.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithm.**
-
-- 👨‍💻 All of my projects are available at [https://checkoutashish.netlify.app/](https://checkoutashish.netlify.app/)
-
-- 📫 How to reach me - **ashish13ip@gmail.com**
-
-- 🚨 Architecting component libraries so clean that even your future self won't want to rewrite them in six months.
-
-- 🎸 Digging through CSS quirks to ensure the experience is just as solid on a mobile browser as it is on a 4k monitor.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar13/" height="30" width="40" /></a>
- </p>
-
-<h3 align="left">Technical Skills</h3>
-<p>Languages : <img src="https://camo.githubusercontent.com/c5335f54b27c1b79bb5b0682a37adf477735583702dbcdc1f241ce0dec51dc36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="java"> <img src="https://camo.githubusercontent.com/ed9414b9a1765e65c94167434a01142fd5f667c4223521addf55556ae136312d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C"> <img src="https://camo.githubusercontent.com/605695c35c534419c80ebc82808f6ed63f0afd5e68b64a244b9c7d71d9002f64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript"></p>
-<p>Frameworks & Libraries : <img src="https://camo.githubusercontent.com/f9ecd79cb6ce65f72f674d6f4d5b4032658af16fb6f0bb0fc583bfe10d1bb016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" alt="Reactjs">  <img src="https://avatars.githubusercontent.com/u/13142323?s=48&v=4" alt="Redux">  <img src="https://camo.githubusercontent.com/947d51e1363a3b3f6a718aa9f4e12dfab46d83455de6aafa44f7dd5833d6fef4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e644353532d3338423241433f7374796c653d666c6174266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="TailwindCss">  <img src="https://avatars.githubusercontent.com/u/84441432?s=48&v=4" alt="Framermotion">  <img src="https://avatars.githubusercontent.com/u/1923096?s=48&v=4" alt="Locomotive"> </p>
-<p>Web Dev Tools :  <img src="https://camo.githubusercontent.com/da2cb4556889bf8e82e71e37e6309330803b220db67d146921fbc76be96d8e47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git">  <img src="https://camo.githubusercontent.com/740a81dcf1e060a232f6bf394795ba0309a7706b722e6046a34cd0c87b9c896d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github">  <img src="https://avatars.githubusercontent.com/u/878437?s=48&v=4" alt="intellij"></p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar013&" alt="ashishkumar013" /></p>
