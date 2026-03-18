@@ -18,10 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="tel:9631914312">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-</p>
+ </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+Developer+%F0%9F%9A%80;UI%2FUX+Focused+Builder+%F0%9F%8E%A8;Responsive+%26+Scalable+Apps+%F0%9F%93%B1;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
@@ -158,7 +155,7 @@ I'm a passionate **Front End Web Developer** with expertise in building modern, 
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://foodiesgo.netlify.app">
+<a href="https://checkoutashish.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
