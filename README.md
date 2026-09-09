@@ -79,7 +79,7 @@ I'm a passionate **Front End Web Developer** with expertise in building modern, 
 
 ---
 
-### 🍔 FoodiesGo — Responsive Food Delivery Platform
+### 🍔 FoodiesGo - Responsive Food Delivery Platform
 > *A high-performance, modern food discovery & ordering experience*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://foodiesgo.netlify.app)
@@ -101,7 +101,7 @@ I'm a passionate **Front End Web Developer** with expertise in building modern, 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ---
 
-### 🛍️ SwiftBuy — Modern E-Commerce Platform
+### 🛍️ SwiftBuy - Modern E-Commerce Platform
 > *Feature-rich shopping experience with full cart management*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://swiftbuyy.netlify.app)
@@ -129,12 +129,12 @@ I'm a passionate **Front End Web Developer** with expertise in building modern, 
 
 ## 🎓 Education
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.Tech  | BIT Sindri, Dhanbad | 2021 – 2025 | 7.2 |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech  | BIT Sindri, Dhanbad | 2021 – 2025 |
 
-- 🏆 Member of the **Management Team** — coordinated PTS CAD-MAN Competition
-- 🏗️ Member of **Association of Civil Engineering (ACE)** — contributed to Annual Tech-Fest organization
+- 🏆 Member of the **Management Team** - coordinated PTS CAD-MAN Competition
+- 🏗️ Member of **Association of Civil Engineering (ACE)** - contributed to Annual Tech-Fest organization
 
 ---
 
