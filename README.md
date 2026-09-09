@@ -30,11 +30,10 @@
 
 I'm a passionate **Front End Web Developer** with expertise in building modern, responsive web applications using **React 19** and the latest JavaScript ecosystem tools. I love crafting seamless user experiences with clean, scalable code.
 
-- 🎓 B.Tech Graduate from **BIT Sindri, Dhanbad** (CGPA: 7.2)
+- 🎓 B.Tech Graduate from **BIT Sindri, Dhanbad** 
 - 🚀 Specialized in **React**,**JavaScript**, **Context API**, **React Router DOM**
 - 🎨 Focused on **performance**, **responsiveness**, and **clean architecture**
 - 👯 I’m looking to collaborate on Frontend Projects.
-- 🌱 Currently learning Data Structures and Algorithm.
 - 📍 Based in **India**
 
 ---
